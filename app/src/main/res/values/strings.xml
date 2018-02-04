@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recipes for Pocket Mortys</string>
+    <string name="recipes">Recipes</string>
+    <string name="attack_types">Attack Types</string>
+    <string name="mortypedia">Mortypedia</string>
+    <string name="quests">Quests</string>
+
+    <string name="banner_ad_unit_id">	ca-app-pub-3940256099942544/6300978111</string>
+    <string name="b1">Mortys</string>
+    <string name="b2">Attacks</string>
+    <string name="b3">Recipes</string>
+    <string name="b4">Quests</string>
+
+
+
+</resources>
